@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(download.jpeg);
+    background-size: cover;
+}
+    h1{
+        color: rgb(1, 11, 71);
+    text-align: center;
+    margin-top: 30px;
+}
+p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(84, 25, 45);
+
+}
